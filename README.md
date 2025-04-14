@@ -1,3 +1,1 @@
-cd ansible
-
-ansible-playbook main.yaml
+Home for the scripts needed by the App Connectivity workshop
